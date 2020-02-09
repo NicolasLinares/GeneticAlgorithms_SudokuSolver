@@ -1,5 +1,4 @@
-#Algoritmos Genéticos - Resolución de Sudokus
-
+# Algoritmos Genéticos - Resolución de Sudokus
 El objetivo es construir un algoritmo genético capaz de resolver Sudokus de NxN, es decir, con las mismas filas que 
 columnas (cuadrados).
 
